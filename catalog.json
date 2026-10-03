@@ -1,0 +1,1020 @@
+{
+  "reviewed": "2026-10-03",
+  "brands": [
+    {
+      "id": "honda",
+      "name": "Honda",
+      "country": {
+        "pt": "Japão",
+        "en": "Japan"
+      },
+      "year": 1948,
+      "era": {
+        "pt": "Fundação da Honda Motor",
+        "en": "Honda Motor founded"
+      },
+      "text": {
+        "pt": "Soichiro Honda e Takeo Fujisawa construíram uma história de mobilidade acessível e competição. A Dream D-Type surgiu em 1949; Super Cub e CB750 se tornaram marcos.",
+        "en": "Soichiro Honda and Takeo Fujisawa built a story of accessible mobility and racing. The Dream D-Type arrived in 1949; the Super Cub and CB750 became milestones."
+      },
+      "url": "https://www.honda.com/history",
+      "styles": "Street · Touring · Adventure · Racing"
+    },
+    {
+      "id": "yamaha",
+      "name": "Yamaha",
+      "country": {
+        "pt": "Japão",
+        "en": "Japan"
+      },
+      "year": 1955,
+      "era": {
+        "pt": "Criação da Yamaha Motor e da YA-1",
+        "en": "Yamaha Motor established; YA-1 launched"
+      },
+      "text": {
+        "pt": "A divisão de motos ganhou vida própria em 1955. A YA-1 abriu uma trajetória que reúne competição, motos de rua e aventura, distinta da história anterior da fabricante de instrumentos.",
+        "en": "The motorcycle division became its own company in 1955. The YA-1 began a journey through racing, road riding and adventure, separate from the earlier instrument manufacturer's history."
+      },
+      "url": "https://global.yamaha-motor.com/stories/history/stories/0001.html",
+      "styles": "Street · Adventure · Motocross · Racing"
+    },
+    {
+      "id": "suzuki",
+      "name": "Suzuki",
+      "country": {
+        "pt": "Japão",
+        "en": "Japan"
+      },
+      "year": 1909,
+      "era": {
+        "pt": "Origem em teares; motos a partir de 1952",
+        "en": "Loom origins; powered two-wheelers from 1952"
+      },
+      "text": {
+        "pt": "Michio Suzuki começou com teares. A Power Free, de 1952, marca a entrada nas duas rodas motorizadas. Sua identidade passou a incluir motos esportivas e máquinas de uso diário.",
+        "en": "Michio Suzuki began with looms. The 1952 Power Free marked its entry into powered two-wheelers. Its identity grew to include sport motorcycles and everyday machines."
+      },
+      "url": "https://www.globalsuzuki.com/100th/history-en.html",
+      "styles": "Street · Sport · Adventure"
+    },
+    {
+      "id": "kawasaki",
+      "name": "Kawasaki",
+      "country": {
+        "pt": "Japão",
+        "en": "Japan"
+      },
+      "year": 1961,
+      "era": {
+        "pt": "Primeira moto com a marca Kawasaki",
+        "en": "First Kawasaki-branded motorcycle"
+      },
+      "text": {
+        "pt": "A B7 foi lançada em 1961. A história industrial do grupo é anterior à marca nas motos; competição e desempenho tornaram-se parte de sua identidade.",
+        "en": "The B7 was launched in 1961. The group's industrial history predates its motorcycle brand; racing and performance became part of its identity."
+      },
+      "url": "https://www.kawasaki.eu/en/about-kawasaki/history.html",
+      "styles": "Sport · Touring · Motocross"
+    },
+    {
+      "id": "bmw",
+      "name": "BMW Motorrad",
+      "country": {
+        "pt": "Alemanha",
+        "en": "Germany"
+      },
+      "year": 1923,
+      "era": {
+        "pt": "Apresentação da R 32",
+        "en": "R 32 unveiled"
+      },
+      "text": {
+        "pt": "A R 32 iniciou a história das motocicletas BMW em 1923, combinando motor boxer e transmissão por eixo. A data se refere às motos, não à fundação do grupo BMW.",
+        "en": "The R 32 began BMW's motorcycle story in 1923, combining a boxer engine and shaft drive. This date refers to motorcycles, not the BMW group's founding."
+      },
+      "url": "https://www.bmwmotorcycles.com/en/engineering/innovation-overview/innovation/milestones.html",
+      "styles": "Adventure · Touring · Heritage · Sport"
+    },
+    {
+      "id": "ducati",
+      "name": "Ducati",
+      "country": {
+        "pt": "Itália",
+        "en": "Italy"
+      },
+      "year": 1926,
+      "era": {
+        "pt": "Origem eletrônica; Cucciolo em 1946",
+        "en": "Electronics origins; Cucciolo in 1946"
+      },
+      "text": {
+        "pt": "Fundada em Bolonha como empresa de tecnologia, passou às duas rodas no pós-guerra com o Cucciolo. Engenharia e competição são fios centrais dessa trajetória.",
+        "en": "Founded in Bologna as a technology business, Ducati entered powered two-wheelers after the war with the Cucciolo. Engineering and racing are central threads in its story."
+      },
+      "url": "https://www.ducati.com/gb/en/heritage/ducati-chronicle",
+      "styles": "Sport · Naked · Adventure · Heritage"
+    },
+    {
+      "id": "harley",
+      "name": "Harley-Davidson",
+      "country": {
+        "pt": "Estados Unidos",
+        "en": "United States"
+      },
+      "year": 1903,
+      "era": {
+        "pt": "Fundação em Milwaukee",
+        "en": "Founded in Milwaukee"
+      },
+      "text": {
+        "pt": "William S. Harley e os irmãos Davidson começaram em Milwaukee. A marca desenvolveu uma cultura de estrada e associações de proprietários, hoje representada também pelo H.O.G.",
+        "en": "William S. Harley and the Davidson brothers began in Milwaukee. The brand developed a road-riding and ownership culture, also represented today by H.O.G."
+      },
+      "url": "https://www.harley-davidson.com/us/en/content/expert-advice/harley-davidson-early-history.html",
+      "styles": "Cruiser · Touring · Adventure"
+    },
+    {
+      "id": "indian",
+      "name": "Indian Motorcycle",
+      "country": {
+        "pt": "Estados Unidos",
+        "en": "United States"
+      },
+      "year": 1901,
+      "era": {
+        "pt": "Origem em Springfield",
+        "en": "Origins in Springfield"
+      },
+      "text": {
+        "pt": "George Hendee e Oscar Hedstrom deram início à marca em Springfield. A história reúne máquinas pioneiras, competição e diferentes fases empresariais; a marca atual não implica continuidade da mesma empresa desde 1901.",
+        "en": "George Hendee and Oscar Hedstrom started the brand in Springfield. Its story includes pioneering machines, racing and different corporate eras; today's brand does not imply the same company operated continuously since 1901."
+      },
+      "url": "https://www.indianmotorcycle.com/en-us/history/becoming-legendary/",
+      "styles": "Cruiser · Touring · Flat track"
+    },
+    {
+      "id": "triumph",
+      "name": "Triumph",
+      "country": {
+        "pt": "Reino Unido",
+        "en": "United Kingdom"
+      },
+      "year": 1902,
+      "era": {
+        "pt": "Primeira motocicleta de produção",
+        "en": "First production motorcycle"
+      },
+      "text": {
+        "pt": "A primeira moto de produção foi comercializada em 1902. A trajetória inclui a tradição britânica e a fase moderna de Hinckley, com clássicas, esportivas e motos de aventura.",
+        "en": "The first production motorcycle went on sale in 1902. Its story spans British heritage and the modern Hinckley era, with classics, sport motorcycles and adventure bikes."
+      },
+      "url": "https://www.triumphmotorcycles.co.uk/for-the-ride/brand/120-years-celebration",
+      "styles": "Modern classic · Adventure · Sport"
+    },
+    {
+      "id": "enfield",
+      "name": "Royal Enfield",
+      "country": {
+        "pt": "Origem britânica · Índia",
+        "en": "British origins · India"
+      },
+      "year": 1901,
+      "era": {
+        "pt": "Primeira motocicleta Enfield",
+        "en": "First Enfield motorcycle"
+      },
+      "text": {
+        "pt": "A primeira moto surgiu em 1901 na Inglaterra. A história atravessa a produção britânica e a continuidade da marca na Índia, com forte ligação às viagens e à família Bullet.",
+        "en": "The first motorcycle appeared in England in 1901. Its story spans British production and the brand's continuation in India, with strong ties to travel and the Bullet family."
+      },
+      "url": "https://www.royalenfield.com/in/en/our-world/since-1901/",
+      "styles": "Classic · Adventure · Touring"
+    },
+    {
+      "id": "ktm",
+      "name": "KTM",
+      "country": {
+        "pt": "Áustria",
+        "en": "Austria"
+      },
+      "year": 1953,
+      "era": {
+        "pt": "Registro da KTM como empresa",
+        "en": "KTM registered as a company"
+      },
+      "text": {
+        "pt": "A sigla associa Kronreif, Trunkenpolz e Mattighofen. A oficina teve antecedentes anteriores a 1953; motos e competição fora de estrada tornaram-se parte de sua identidade.",
+        "en": "The initials connect Kronreif, Trunkenpolz and Mattighofen. The workshop had roots before 1953; motorcycles and off-road racing became part of its identity."
+      },
+      "url": "https://www.ktm.com/en-nz/ktm-world/stories/the-logo-and-the-look.html",
+      "styles": "Enduro · Rally raid · Motocross · Adventure"
+    },
+    {
+      "id": "husqvarna",
+      "name": "Husqvarna",
+      "country": {
+        "pt": "Origem sueca",
+        "en": "Swedish origins"
+      },
+      "year": 1903,
+      "era": {
+        "pt": "Início da produção de motos",
+        "en": "Motorcycle production began"
+      },
+      "text": {
+        "pt": "A trajetória nas motocicletas começou em 1903, muito depois da origem industrial da empresa. Seu legado nas duas rodas se relaciona fortemente ao motocross e ao enduro.",
+        "en": "Its motorcycle journey began in 1903, long after the company's industrial origins. Its two-wheel heritage is closely linked to motocross and enduro."
+      },
+      "url": "https://www.husqvarna-motorcycles.com/en-ee/the-brand.html",
+      "styles": "Enduro · Motocross · Street"
+    },
+    {
+      "id": "guzzi",
+      "name": "Moto Guzzi",
+      "country": {
+        "pt": "Itália",
+        "en": "Italy"
+      },
+      "year": 1921,
+      "era": {
+        "pt": "Fundação da marca",
+        "en": "Brand founded"
+      },
+      "text": {
+        "pt": "Uma história italiana ligada a Mandello del Lario desde 1921. A marca combina tradição de fabricação, viagens e uma identidade mecânica própria.",
+        "en": "An Italian story tied to Mandello del Lario since 1921. The brand combines manufacturing heritage, travel and a distinctive mechanical identity."
+      },
+      "url": "https://www.piaggiogroup.com/en/business",
+      "styles": "Touring · Heritage · Adventure"
+    },
+    {
+      "id": "aprilia",
+      "name": "Aprilia",
+      "country": {
+        "pt": "Itália",
+        "en": "Italy"
+      },
+      "year": 1945,
+      "era": {
+        "pt": "Origem da marca; bicicletas antes das motos",
+        "en": "Brand origins; bicycles before motorcycles"
+      },
+      "text": {
+        "pt": "A origem remonta a 1945, antes da expansão para motos. A história posterior ganhou forte associação com competição em circuitos e desenvolvimento de motos esportivas.",
+        "en": "Its origins date to 1945, before expansion into motorcycles. Its later story became closely associated with circuit racing and sport-bike development."
+      },
+      "url": "https://www.piaggiogroup.com/sites/default/files/documents/csr_2018_eng_sito_corporate.pdf",
+      "styles": "Sport · Naked · Racing"
+    },
+    {
+      "id": "vespa",
+      "name": "Vespa",
+      "country": {
+        "pt": "Itália",
+        "en": "Italy"
+      },
+      "year": 1946,
+      "era": {
+        "pt": "Nascimento da Vespa",
+        "en": "Vespa launched"
+      },
+      "text": {
+        "pt": "A Vespa surgiu no pós-guerra como uma proposta de mobilidade individual. O scooter se tornou símbolo cultural e formou uma rede internacional de clubes.",
+        "en": "Vespa emerged after the war as a form of personal mobility. The scooter became a cultural symbol and inspired an international network of clubs."
+      },
+      "url": "https://www.press.piaggiogroup.com/en_EN/post/show/142291/piaggio-group-background-info.html",
+      "styles": "Scooter · Urban · Touring"
+    }
+  ],
+  "races": [
+    {
+      "name": "MotoGP · Moto2 · Moto3",
+      "group": "asphalt",
+      "text": {
+        "pt": "Protótipos em circuitos fechados; classes com regras técnicas próprias. Estratégia, pneus e precisão em alta velocidade.",
+        "en": "Prototypes on closed circuits; classes have their own technical rules. Strategy, tyres and high-speed precision."
+      },
+      "url": "https://www.motogp.com/en/"
+    },
+    {
+      "name": "Superbike · Supersport",
+      "group": "asphalt",
+      "text": {
+        "pt": "Máquinas derivadas de modelos de produção, sujeitas ao regulamento de cada categoria.",
+        "en": "Machines based on production models, subject to each class's regulations."
+      },
+      "url": "https://www.worldsbk.com/"
+    },
+    {
+      "name": "Endurance",
+      "group": "asphalt",
+      "text": {
+        "pt": "Corridas de longa duração com equipes, troca de pilotos e gestão de combustível e manutenção.",
+        "en": "Long-distance races with teams, rider changes, fuel management and maintenance."
+      },
+      "url": "https://www.fimewc.com/"
+    },
+    {
+      "name": "Road racing · TT",
+      "group": "asphalt",
+      "text": {
+        "pt": "Competição em vias públicas fechadas para a prova. O TT da Ilha de Man é um exemplo; exige organização e regras específicas.",
+        "en": "Racing on public roads closed for the event. The Isle of Man TT is one example, with specific organization and rules."
+      },
+      "url": "https://www.iomttraces.com/"
+    },
+    {
+      "name": "Motocross",
+      "group": "offroad",
+      "text": {
+        "pt": "Circuitos de terra com saltos e baterias; terreno e aderência mudam ao longo da prova.",
+        "en": "Dirt circuits with jumps and race heats; terrain and grip change throughout the event."
+      },
+      "url": "https://www.mxgp.com/"
+    },
+    {
+      "name": "Supercross",
+      "group": "offroad",
+      "text": {
+        "pt": "Pistas de terra compactas, frequentemente em estádios, com saltos e sequências técnicas.",
+        "en": "Compact dirt tracks, often in stadiums, with jumps and technical rhythm sections."
+      },
+      "url": "https://www.supercrosslive.com/"
+    },
+    {
+      "name": "Enduro · Hard enduro",
+      "group": "offroad",
+      "text": {
+        "pt": "Trilhas e especiais cronometradas; hard enduro enfatiza obstáculos extremos. Formatos e pontuação variam.",
+        "en": "Trails and timed special tests; hard enduro emphasizes extreme obstacles. Formats and scoring vary."
+      },
+      "url": "https://www.fim-moto.com/en/sports/view/enduro"
+    },
+    {
+      "name": "Trial",
+      "group": "offroad",
+      "text": {
+        "pt": "Superar zonas de obstáculos com precisão e o mínimo de penalizações; velocidade não é o principal critério.",
+        "en": "Negotiate obstacle sections precisely with as few penalties as possible; speed is not the main criterion."
+      },
+      "url": "https://www.trialgp.com/"
+    },
+    {
+      "name": "Rally raid · Cross-country",
+      "group": "rally",
+      "text": {
+        "pt": "Longas etapas com navegação, roadbook e especiais. Dakar e Sertões ilustram essa família de provas.",
+        "en": "Long stages with navigation, roadbooks and timed sections. Dakar and Sertões illustrate this family of events."
+      },
+      "url": "https://www.dakar.com/"
+    },
+    {
+      "name": "Baja",
+      "group": "rally",
+      "text": {
+        "pt": "Provas cross-country mais compactas, com navegação e especiais em terreno aberto.",
+        "en": "More compact cross-country events, featuring navigation and timed sections across open terrain."
+      },
+      "url": "https://www.fim-moto.com/en/sports/view/cross-country-rallies"
+    },
+    {
+      "name": "Rally de regularidade",
+      "group": "rally",
+      "text": {
+        "pt": "Cumprimento de roteiro, médias e tempos definidos; não deve ser confundido com disputar a maior velocidade em via aberta.",
+        "en": "Following a route and specified average speeds and times; this is not maximum-speed racing on open roads."
+      },
+      "url": "https://cbm.esp.br/"
+    },
+    {
+      "name": "Supermoto",
+      "group": "mixed",
+      "text": {
+        "pt": "Combina trechos de asfalto e terra em um mesmo circuito.",
+        "en": "Combines asphalt and dirt sections on the same circuit."
+      },
+      "url": "https://www.fim-moto.com/en/sports/view/supermoto"
+    },
+    {
+      "name": "Flat track",
+      "group": "oval",
+      "text": {
+        "pt": "Corridas em pistas de terra, incluindo ovais e formatos TT. O formato TT do flat track difere do TT da Ilha de Man.",
+        "en": "Dirt-track racing, including ovals and TT formats. Flat-track TT differs from the Isle of Man TT."
+      },
+      "url": "https://www.americanflattrack.com/"
+    },
+    {
+      "name": "Speedway · Long track · Ice speedway",
+      "group": "oval",
+      "text": {
+        "pt": "Família de provas em pistas ovais com superfícies e máquinas distintas, inclusive gelo.",
+        "en": "A family of oval-track disciplines with different surfaces and machines, including ice."
+      },
+      "url": "https://www.fim-moto.com/en/sports/view/track-racing"
+    },
+    {
+      "name": "Drag racing",
+      "group": "special",
+      "text": {
+        "pt": "Arrancada em reta medida, com classes, inspeção técnica e regras próprias.",
+        "en": "Acceleration over a measured straight, with classes, technical inspection and specific rules."
+      },
+      "url": "https://www.amadragbike.com/"
+    },
+    {
+      "name": "Hillclimb",
+      "group": "special",
+      "text": {
+        "pt": "Subida competitiva de encostas ou percursos definidos; terreno e regulamento determinam o desafio.",
+        "en": "Competitive climbs on hillsides or defined courses; terrain and regulations determine the challenge."
+      },
+      "url": "https://americanmotorcyclist.com/racing/"
+    },
+    {
+      "name": "Sidecar",
+      "group": "special",
+      "text": {
+        "pt": "Piloto e passageiro trabalham juntos. Há formatos em circuito, motocross e outras superfícies, com regras distintas.",
+        "en": "Driver and passenger work together. Circuit, motocross and other formats have different rules."
+      },
+      "url": "https://www.fim-moto.com/en/sports"
+    },
+    {
+      "name": "Land speed · Elétricas / Electric",
+      "group": "special",
+      "text": {
+        "pt": "Recordes de velocidade e categorias elétricas exigem regulamentos específicos. Propulsão elétrica pode aparecer em diferentes modalidades; não define um único formato de corrida.",
+        "en": "Land-speed records and electric classes require specific regulations. Electric propulsion can feature in different disciplines; it does not define one racing format."
+      },
+      "url": "https://www.fim-moto.com/en/sports"
+    }
+  ],
+  "clubs": [
+    {
+      "id": "hog",
+      "name": "Harley Owners Group · H.O.G.",
+      "brand": "Harley-Davidson",
+      "type": "official",
+      "region": {
+        "pt": "Rede internacional",
+        "en": "International network"
+      },
+      "text": {
+        "pt": "Programa da Harley-Davidson, hoje integrado à Membership, com chapters locais vinculados a concessionárias. Passeios e regras de participação dependem da região.",
+        "en": "A Harley-Davidson program, now part of Membership, with local dealer-sponsored chapters. Rides and participation rules depend on the region."
+      },
+      "url": "https://www.harley-davidson.com/us/en/content/hog.html",
+      "find": "https://www.harley-davidson.com/us/en/content/hog/local-chapters.html"
+    },
+    {
+      "id": "doc",
+      "name": "Ducati Official Club · D.O.C.",
+      "brand": "Ducati",
+      "type": "official",
+      "region": {
+        "pt": "Rede internacional",
+        "en": "International network"
+      },
+      "text": {
+        "pt": "Clubes reconhecidos pela Ducati. Consulte o localizador, o regulamento e as atividades do clube de sua região antes de solicitar associação.",
+        "en": "Clubs recognized by Ducati. Check the locator, regulations and your local club's activities before applying for membership."
+      },
+      "url": "https://www.ducati.com/ww/en/ducati-official-club",
+      "find": "https://www.ducati.com/ww/en/find-ducati-club"
+    },
+    {
+      "id": "imrg",
+      "name": "Indian Motorcycle Riders Group · IMRG",
+      "brand": "Indian Motorcycle",
+      "type": "official",
+      "region": {
+        "pt": "Chapters; cobertura por país",
+        "en": "Chapters; country-specific coverage"
+      },
+      "text": {
+        "pt": "Rede de grupos ligados à Indian Motorcycle. Nem toda concessionária tem chapter; confira a disponibilidade local e seus requisitos.",
+        "en": "A network associated with Indian Motorcycle. Not every dealer has a chapter; check local availability and requirements."
+      },
+      "url": "https://www.indianmotorcycle.com/en-us/riders-group/",
+      "find": "https://www.indianmotorcycle.com/en-us/riders-group/chapters/"
+    },
+    {
+      "id": "reclub",
+      "name": "Royal Enfield Riders Club",
+      "brand": "Royal Enfield",
+      "type": "official",
+      "region": {
+        "pt": "Programas regionais",
+        "en": "Regional programs"
+      },
+      "text": {
+        "pt": "Comunidade de proprietários com passeios e experiências. A oferta e as condições variam entre os sites nacionais da marca.",
+        "en": "An owners' community offering rides and experiences. Availability and terms vary across the brand's national websites."
+      },
+      "url": "https://www.royalenfield.com/us/en/rides-and-club/",
+      "find": "https://www.royalenfield.com/uk/en/rides-and-club/"
+    },
+    {
+      "id": "bmwmoa",
+      "name": "BMW Motorcycle Owners of America",
+      "brand": "BMW Motorrad",
+      "type": "independent",
+      "region": {
+        "pt": "América do Norte",
+        "en": "North America"
+      },
+      "text": {
+        "pt": "Associação de proprietários e entusiastas, com encontros, fórum e benefícios. É uma organização de associados, não um programa equivalente ao H.O.G. administrado pela fabricante.",
+        "en": "An owners' and enthusiasts' association with rallies, a forum and benefits. It is a membership organization, not a manufacturer-operated equivalent of H.O.G."
+      },
+      "url": "https://bmwmoa.org/membership-option/",
+      "find": "https://bmwmoa.org/"
+    },
+    {
+      "id": "tomcc",
+      "name": "Triumph Owners’ Motor Cycle Club",
+      "brand": "Triumph",
+      "type": "independent",
+      "region": {
+        "pt": "Origem britânica; filiais internacionais",
+        "en": "British origins; international branches"
+      },
+      "text": {
+        "pt": "Fundado por entusiastas em 1949. Possui filiais e atividades próprias; não é apresentado aqui como programa oficial da fabricante.",
+        "en": "Founded by enthusiasts in 1949. It has its own branches and activities; it is not presented here as a manufacturer-run program."
+      },
+      "url": "https://www.tomcc.org/Home/About",
+      "find": "https://www.tomcc.org/Home/Branches"
+    },
+    {
+      "id": "vwc",
+      "name": "Vespa World Club",
+      "brand": "Vespa",
+      "type": "network",
+      "region": {
+        "pt": "Clubes nacionais e locais",
+        "en": "National and local clubs"
+      },
+      "text": {
+        "pt": "Rede internacional de clubes Vespa. Procure o clube nacional e, depois, o núcleo local para entender associação e participação nos eventos.",
+        "en": "An international network of Vespa clubs. Find your national club, then a local chapter, to understand membership and event participation."
+      },
+      "url": "https://vespaworldclub.org/",
+      "find": "https://vespaworldclub.org/national-clubs/"
+    }
+  ],
+  "programs": [
+    {
+      "id": "iba",
+      "name": "Iron Butt Association · IBA",
+      "type": {
+        "pt": "Certificação de longa distância",
+        "en": "Long-distance certification"
+      },
+      "text": {
+        "pt": "Certifica viagens documentadas, não velocidade máxima. SaddleSore 1000: 1.000 milhas em até 24 horas (aprox. 1.609 km). Bun Burner 1500: 1.500 milhas em até 36 horas (aprox. 2.414 km). Confira a variante e o regulamento antes de planejar.",
+        "en": "Certifies documented rides, not maximum speed. SaddleSore 1000: 1,000 miles within 24 hours (about 1,609 km). Bun Burner 1500: 1,500 miles within 36 hours (about 2,414 km). Check the variant and regulations before planning."
+      },
+      "requirements": {
+        "pt": "Documentação de percurso, tempos e comprovantes conforme a modalidade; validação exclusiva da IBA. Respeite limites legais, descanso e suas condições pessoais; interrompa a viagem se houver fadiga.",
+        "en": "Route, time and receipt documentation according to the ride; only IBA validates certification. Respect legal limits, rest and personal readiness; stop if fatigued."
+      },
+      "url": "https://ironbutt.org/rides/",
+      "rules": "https://www.ironbutt.com/themerides/ssseries/application1000v7.pdf"
+    },
+    {
+      "id": "ride365",
+      "name": "H.O.G. Ride 365",
+      "type": {
+        "pt": "Programa de quilometragem",
+        "en": "Mileage program"
+      },
+      "text": {
+        "pt": "Registro de quilometragem e desafios da comunidade Harley-Davidson. Modalidades, reconhecimento e participação variam por mercado e edição.",
+        "en": "Mileage logging and challenges for the Harley-Davidson community. Formats, recognition and participation vary by market and edition."
+      },
+      "requirements": {
+        "pt": "Verifique associação, validação de odômetro e regras regionais no painel oficial. Não equivale a uma certificação IBA.",
+        "en": "Check membership, odometer verification and regional rules in the official dashboard. It is not an IBA certification."
+      },
+      "url": "https://hogstories.harley-davidson.com/en-eu/ride365/",
+      "rules": "https://www.harley-davidson.com/us/en/content/hog.html"
+    },
+    {
+      "id": "dgr",
+      "name": "The Distinguished Gentleman’s Ride",
+      "type": {
+        "pt": "Passeio solidário organizado",
+        "en": "Organized charity ride"
+      },
+      "text": {
+        "pt": "Passeios com motos de estilo clássico e vintage, ligados à conscientização e arrecadação para saúde masculina. Não é corrida nem desafio de distância.",
+        "en": "Rides for classic and vintage-styled motorcycles, supporting awareness and fundraising for men's health. It is neither a race nor a distance challenge."
+      },
+      "requirements": {
+        "pt": "Consulte registro, cidades participantes, critérios de motos e orientação de segurança no organizador.",
+        "en": "Check registration, participating cities, motorcycle criteria and safety guidance with the organizer."
+      },
+      "url": "https://gentlemansride.com/about",
+      "rules": "https://gentlemansride.com/about/faq"
+    },
+    {
+      "id": "rerides",
+      "name": "Royal Enfield · Rides & Club",
+      "type": {
+        "pt": "Viagens e experiências de comunidade",
+        "en": "Community rides and experiences"
+      },
+      "text": {
+        "pt": "Calendário regional de passeios e experiências para explorar a cultura de viagens da marca, sem tratar toda atividade como competição.",
+        "en": "Regional rides and experiences exploring the brand's travel culture, without treating every activity as a competition."
+      },
+      "requirements": {
+        "pt": "Disponibilidade, inscrição, motocicleta aceita e preparo exigido dependem de cada viagem.",
+        "en": "Availability, entry, accepted motorcycles and required preparation depend on each ride."
+      },
+      "url": "https://www.royalenfield.com/us/en/rides-and-club/",
+      "rules": "https://www.royalenfield.com/uk/en/rides-and-club/"
+    }
+  ],
+  "events": [
+    {
+      "id": "eicma2026",
+      "name": "EICMA 2026",
+      "kind": "show",
+      "country": {
+        "pt": "Itália",
+        "en": "Italy"
+      },
+      "place": "Fiera Milano Rho · Milano",
+      "start": "2026-11-05",
+      "end": "2026-11-08",
+      "text": {
+        "pt": "Datas de visitação pública. Dias reservados a imprensa e profissionais têm regras diferentes.",
+        "en": "Public visitor dates. Press and trade days have separate access rules."
+      },
+      "url": "https://www.eicma.it/en/",
+      "reviewed": "2026-10-03",
+      "countryId": "it"
+    },
+    {
+      "id": "mcl2026",
+      "name": "Motorcycle Live 2026",
+      "kind": "show",
+      "country": {
+        "pt": "Reino Unido",
+        "en": "United Kingdom"
+      },
+      "place": "NEC · Birmingham",
+      "start": "2026-11-21",
+      "end": "2026-11-29",
+      "text": {
+        "pt": "Exposição de motos e experiências. Confira programação e bilheteria no organizador.",
+        "en": "Motorcycle exhibition and experiences. Check the organizer's program and ticketing."
+      },
+      "url": "https://www.motorcyclelive.co.uk/",
+      "reviewed": "2026-10-03",
+      "countryId": "gb"
+    },
+    {
+      "id": "dakar2027",
+      "name": "Dakar 2027",
+      "kind": "rally",
+      "country": {
+        "pt": "Arábia Saudita",
+        "en": "Saudi Arabia"
+      },
+      "place": {
+        "pt": "King Abdullah Economic City · etapas",
+        "en": "King Abdullah Economic City · stages"
+      },
+      "start": "2027-01-01",
+      "end": "2027-01-15",
+      "text": {
+        "pt": "Período do prólogo à última etapa segundo o roteiro oficial. Confirme regras de acesso e mudanças de percurso.",
+        "en": "Period from prologue to final stage according to the official route. Confirm access rules and route changes."
+      },
+      "url": "https://www.dakar.com/en/overall-route?iframe=true",
+      "reviewed": "2026-10-03",
+      "countryId": "sa"
+    },
+    {
+      "id": "tt2027",
+      "name": "Isle of Man TT 2027",
+      "kind": "race",
+      "country": {
+        "pt": "Ilha de Man",
+        "en": "Isle of Man"
+      },
+      "place": "Snaefell Mountain Course",
+      "start": "2027-05-31",
+      "end": "2027-06-12",
+      "text": {
+        "pt": "Janela geral de treinos e corridas publicada pelo organizador; sessões podem mudar por clima.",
+        "en": "Overall practice and racing window published by the organizer; sessions may change with weather."
+      },
+      "url": "https://www.iomttraces.com/",
+      "reviewed": "2026-10-03",
+      "countryId": "im"
+    },
+    {
+      "id": "capital",
+      "name": "Capital Moto Week · próxima edição / next edition",
+      "kind": "meet",
+      "country": {
+        "pt": "Brasil",
+        "en": "Brazil"
+      },
+      "place": "Brasília · DF",
+      "start": null,
+      "end": null,
+      "text": {
+        "pt": "Festival de motociclismo, passeios e música. A próxima edição fica sem data neste portal até confirmação atualizada do organizador.",
+        "en": "Motorcycling, rides and music festival. The next edition remains undated here until a current organizer announcement is verified."
+      },
+      "url": "https://www.capitalmotoweek.com.br/",
+      "reviewed": "2026-10-03",
+      "countryId": "br"
+    },
+    {
+      "id": "sturgis",
+      "name": "Sturgis Motorcycle Rally · próxima edição / next edition",
+      "kind": "meet",
+      "country": {
+        "pt": "Estados Unidos",
+        "en": "United States"
+      },
+      "place": "Sturgis · South Dakota",
+      "start": null,
+      "end": null,
+      "text": {
+        "pt": "Encontro de motociclistas e programação de vários organizadores. Consulte a cidade para a próxima data; não repetimos automaticamente o calendário de 2026.",
+        "en": "A motorcycle gathering with programs from several organizers. Check the city for the next date; we do not automatically repeat the 2026 calendar."
+      },
+      "url": "https://www.sturgis-sd.gov/media-information",
+      "reviewed": "2026-10-03",
+      "countryId": "us"
+    },
+    {
+      "id": "sertoes",
+      "name": "Sertões · próxima edição / next edition",
+      "kind": "rally",
+      "country": {
+        "pt": "Brasil",
+        "en": "Brazil"
+      },
+      "place": {
+        "pt": "Percurso a confirmar",
+        "en": "Route to be confirmed"
+      },
+      "start": null,
+      "end": null,
+      "text": {
+        "pt": "Referência brasileira de rally raid. Inscrições, percurso e calendário devem ser confirmados para a edição pretendida.",
+        "en": "A Brazilian rally-raid reference. Entries, route and calendar must be confirmed for the intended edition."
+      },
+      "url": "https://sertoes.com.br/rally-sertoes/",
+      "reviewed": "2026-10-03",
+      "countryId": "br"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIM",
+      "category": "race",
+      "url": "https://www.fim-moto.com/en/",
+      "text": {
+        "pt": "Federação internacional, regulamentos e calendários de várias modalidades.",
+        "en": "International federation, regulations and calendars across disciplines."
+      }
+    },
+    {
+      "name": "CBM",
+      "category": "race",
+      "url": "https://cbm.esp.br/",
+      "text": {
+        "pt": "Confederação Brasileira de Motociclismo e competições nacionais.",
+        "en": "Brazilian motorcycling confederation and national competitions."
+      }
+    },
+    {
+      "name": "MotoGP",
+      "category": "race",
+      "url": "https://www.motogp.com/en/calendar",
+      "text": {
+        "pt": "Calendário, notícias e informações oficiais dos Grands Prix.",
+        "en": "Official Grand Prix calendar, news and information."
+      }
+    },
+    {
+      "name": "WorldSBK",
+      "category": "race",
+      "url": "https://www.worldsbk.com/",
+      "text": {
+        "pt": "Superbike e categorias de apoio.",
+        "en": "Superbike and support classes."
+      }
+    },
+    {
+      "name": "FIM EWC",
+      "category": "race",
+      "url": "https://www.fimewc.com/",
+      "text": {
+        "pt": "Mundial de endurance.",
+        "en": "Endurance world championship."
+      }
+    },
+    {
+      "name": "MXGP",
+      "category": "race",
+      "url": "https://www.mxgp.com/",
+      "text": {
+        "pt": "Mundial de motocross.",
+        "en": "Motocross world championship."
+      }
+    },
+    {
+      "name": "Dakar",
+      "category": "event",
+      "url": "https://www.dakar.com/",
+      "text": {
+        "pt": "Rally raid, percurso e notícias do organizador.",
+        "en": "Rally raid, route and organizer news."
+      }
+    },
+    {
+      "name": "Sertões",
+      "category": "event",
+      "url": "https://rally.sertoes.com.br/noticias/",
+      "text": {
+        "pt": "Notícias e edições do rally brasileiro.",
+        "en": "News and editions of the Brazilian rally."
+      }
+    },
+    {
+      "name": "EICMA",
+      "category": "event",
+      "url": "https://www.eicma.it/en/",
+      "text": {
+        "pt": "Exposição internacional em Milão.",
+        "en": "International exhibition in Milan."
+      }
+    },
+    {
+      "name": "Motorcycle Live",
+      "category": "event",
+      "url": "https://www.motorcyclelive.co.uk/",
+      "text": {
+        "pt": "Exposição britânica e experiências.",
+        "en": "British exhibition and experiences."
+      }
+    },
+    {
+      "name": "Capital Moto Week",
+      "category": "event",
+      "url": "https://www.capitalmotoweek.com.br/news",
+      "text": {
+        "pt": "Comunicados oficiais do festival em Brasília.",
+        "en": "Official announcements from the Brasília festival."
+      }
+    },
+    {
+      "name": "Google News RSS",
+      "category": "news",
+      "url": "https://news.google.com/",
+      "text": {
+        "pt": "Descoberta de manchetes por temas e países. A fonte editorial é o veículo de cada notícia, não o agregador.",
+        "en": "Headline discovery by topic and country. Each news outlet is the editorial source, not the aggregator."
+      }
+    }
+  ],
+  "countries": [
+    {
+      "id": "br",
+      "pt": "Brasil",
+      "en": "Brazil"
+    },
+    {
+      "id": "pt",
+      "pt": "Portugal",
+      "en": "Portugal"
+    },
+    {
+      "id": "us",
+      "pt": "Estados Unidos",
+      "en": "United States"
+    },
+    {
+      "id": "gb",
+      "pt": "Reino Unido",
+      "en": "United Kingdom"
+    },
+    {
+      "id": "it",
+      "pt": "Itália",
+      "en": "Italy"
+    },
+    {
+      "id": "de",
+      "pt": "Alemanha",
+      "en": "Germany"
+    },
+    {
+      "id": "fr",
+      "pt": "França",
+      "en": "France"
+    },
+    {
+      "id": "es",
+      "pt": "Espanha",
+      "en": "Spain"
+    },
+    {
+      "id": "au",
+      "pt": "Austrália",
+      "en": "Australia"
+    },
+    {
+      "id": "nz",
+      "pt": "Nova Zelândia",
+      "en": "New Zealand"
+    },
+    {
+      "id": "ca",
+      "pt": "Canadá",
+      "en": "Canada"
+    },
+    {
+      "id": "ar",
+      "pt": "Argentina",
+      "en": "Argentina"
+    },
+    {
+      "id": "cl",
+      "pt": "Chile",
+      "en": "Chile"
+    },
+    {
+      "id": "uy",
+      "pt": "Uruguai",
+      "en": "Uruguay"
+    },
+    {
+      "id": "mx",
+      "pt": "México",
+      "en": "Mexico"
+    },
+    {
+      "id": "co",
+      "pt": "Colômbia",
+      "en": "Colombia"
+    },
+    {
+      "id": "za",
+      "pt": "África do Sul",
+      "en": "South Africa"
+    },
+    {
+      "id": "jp",
+      "pt": "Japão",
+      "en": "Japan"
+    },
+    {
+      "id": "in",
+      "pt": "Índia",
+      "en": "India"
+    },
+    {
+      "id": "th",
+      "pt": "Tailândia",
+      "en": "Thailand"
+    },
+    {
+      "id": "id",
+      "pt": "Indonésia",
+      "en": "Indonesia"
+    },
+    {
+      "id": "my",
+      "pt": "Malásia",
+      "en": "Malaysia"
+    },
+    {
+      "id": "sa",
+      "pt": "Arábia Saudita",
+      "en": "Saudi Arabia"
+    },
+    {
+      "id": "im",
+      "pt": "Ilha de Man",
+      "en": "Isle of Man"
+    },
+    {
+      "id": "at",
+      "pt": "Áustria",
+      "en": "Austria"
+    }
+  ]
+}
